@@ -1,0 +1,1 @@
+from .NewsScraper import NewsScraper
